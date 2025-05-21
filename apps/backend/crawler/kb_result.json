@@ -1,0 +1,3514 @@
+[
+    {
+        "entities": [
+            {
+                "name": "#onetrust-banner-sdk .ot-sdk-button",
+                "description": "Button"
+            },
+            {
+                "name": "#onetrust-pc-sdk .ot-sdk-button",
+                "description": "Button"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "#onetrust-banner-sdk .ot-sdk-button:hover",
+                "description": "Hovered Button"
+            },
+            {
+                "name": "#onetrust-pc-sdk .ot-sdk-button:hover",
+                "description": "Hovered Button"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "#onetrust-banner-sdk .ot-sdk-button:focus",
+                "description": "Focused Button"
+            },
+            {
+                "name": "#onetrust-pc-sdk .ot-sdk-button:focus",
+                "description": "Focused Button"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "#onetrust-banner-sdk .ot-sdk-button-primary",
+                "description": "Primary Button"
+            },
+            {
+                "name": "#onetrust-pc-sdk .ot-sdk-button-primary",
+                "description": "Primary Button"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "#onetrust-banner-sdk .ot-sdk-button-primary:hover",
+                "description": "Hovered Primary Button"
+            },
+            {
+                "name": "#onetrust-pc-sdk .ot-sdk-button-primary:hover",
+                "description": "Hovered Primary Button"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "#onetrust-banner-sdk .ot-sdk-button-primary:focus",
+                "description": "Focused Primary Button"
+            },
+            {
+                "name": "#onetrust-pc-sdk .ot-sdk-button-primary:focus",
+                "description": "Focused Primary Button"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "name": "login__button",
+        "description": "Login button",
+        "error": false
+    },
+    {
+        "name": "login__icon--person",
+        "description": "Person icon for login",
+        "error": false
+    },
+    {
+        "name": "login__icon--border",
+        "description": "Border icon for login",
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "ot-accordion-layout",
+                "description": "Accordion layout for categories"
+            },
+            {
+                "name": "ot-cat-item",
+                "description": "Category item in accordion layout"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "ot-vnd-item",
+                "description": "Vendor item in accordion layout"
+            },
+            {
+                "name": "ot-acc-grpdesc",
+                "description": "Accordion group description"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "ot-pgph-link",
+                "description": "Page link in accordion layout"
+            },
+            {
+                "name": "ot-pgph-contr",
+                "description": "Page content in accordion layout"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "CBS News chief steps down amid tension over Trump lawsuit",
+                "description": ""
+            },
+            {
+                "name": "Trump lawsuit",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "NBC News",
+                "description": ""
+            },
+            {
+                "name": "CBS News",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "NBC News",
+                "description": "A leading source of news and information"
+            },
+            {
+                "name": "Today",
+                "description": "A morning news program on NBC"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Nightly News",
+                "description": "An evening news program on NBC"
+            },
+            {
+                "name": "MSNBC",
+                "description": "A cable news channel owned by NBCUniversal"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Meet the Press",
+                "description": "A weekly news program on NBC"
+            },
+            {
+                "name": "Dateline",
+                "description": "A true-crime documentary series on NBC"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "NBC News Now",
+                "description": "A streaming service owned by NBCUniversal"
+            },
+            {
+                "name": "Nightly Films",
+                "description": "A series of documentaries on NBC"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Stay Tuned",
+                "description": "A podcast hosted by NBC News"
+            },
+            {
+                "name": "Newsletters",
+                "description": "Email newsletters from NBC News"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Podcasts",
+                "description": "Audio content from NBC News"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "CBS News",
+                "description": "A news organization"
+            },
+            {
+                "name": "Wendy McMahon",
+                "description": "The president and CEO of CBS News"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Trump",
+                "description": "The President of the United States"
+            },
+            {
+                "name": "Walmart",
+                "description": "A retail corporation"
+            }
+        ],
+        "relationships": [
+            {
+                "entity1": {
+                    "name": "Trump",
+                    "description": "The President of the United States"
+                },
+                "entity2": {
+                    "name": "Walmart",
+                    "description": "A retail corporation"
+                },
+                "description": "Tariff dispute",
+                "relation_type": "conflict"
+            }
+        ],
+        "error": false
+    },
+    {
+        "name": "Walmart",
+        "description": "A retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores.",
+        "error": false
+    },
+    {
+        "name": "Grocery prices",
+        "description": "The prices of groceries in the United States have been increasing over the past few years.",
+        "error": false
+    },
+    {
+        "name": "Inflation",
+        "description": "A sustained increase in the general price level of goods and services in an economy over a period of time.",
+        "error": false
+    },
+    {
+        "name": "Economic indicators",
+        "description": "Statistics that are used to measure the overall health of an economy, such as GDP, inflation rate, and unemployment rate.",
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Charter Communications",
+                "description": ""
+            },
+            {
+                "name": "Cox Communications",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [],
+        "relationships": [
+            {
+                "entity1": {
+                    "name": "Apple",
+                    "description": ""
+                },
+                "entity2": {
+                    "name": "India",
+                    "description": ""
+                },
+                "description": "",
+                "relation_type": "related to"
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "NBC News",
+                "description": "A news organization"
+            },
+            {
+                "name": "Peacock",
+                "description": "The logo of NBC News"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "About",
+                "description": "Information about NBC News"
+            },
+            {
+                "name": "Contact",
+                "description": "How to contact NBC News"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Help",
+                "description": "Support for NBC News users"
+            },
+            {
+                "name": "Careers",
+                "description": "Job opportunities at NBC News"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Ad Choices",
+                "description": "Information about advertising on NBC News"
+            },
+            {
+                "name": "Cookies",
+                "description": "How cookies are used on NBC News"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [],
+        "relationships": [
+            {
+                "entity1": "NBC News",
+                "entity2": "About",
+                "relation_type": "related_to",
+                "description": "Information about NBC News"
+            },
+            {
+                "entity1": "NBC News",
+                "entity2": "Contact",
+                "relation_type": "related_to",
+                "description": "How to contact NBC News"
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Sean Diddy Combs",
+                "description": "Musician and entrepreneur"
+            },
+            {
+                "name": "Dawn Richard",
+                "description": "Singer and songwriter"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Trump administration",
+                "description": "Government of the United States under Donald Trump"
+            },
+            {
+                "name": "Putin",
+                "description": "Vladimir Putin, President of Russia"
+            },
+            {
+                "name": "Zelenskyy",
+                "description": "Volodymyr Zelenskyy, President of Ukraine"
+            },
+            {
+                "name": "Biden",
+                "description": "Joe Biden, President of the United States"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Politics",
+                "description": "Branch of government dealing with laws and governance"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "U.S. News",
+                "description": "News related to the United States"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "New York",
+                "description": "State in the northeastern United States"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "NBC News",
+                "description": "A news organization"
+            },
+            {
+                "name": "My News",
+                "description": "A personalized news feed"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [],
+        "relationships": [
+            {
+                "entity1": "NBC News",
+                "entity2": "My News",
+                "relation_type": "",
+                "description": ""
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Search NBC News",
+                "description": "A search function for NBC News"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Entity1",
+                "description": "This is entity 1"
+            },
+            {
+                "name": "Entity2",
+                "description": "This is entity 2"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [],
+        "relationships": [
+            {
+                "entity1": {
+                    "name": "Entity3",
+                    "description": "This is entity 3"
+                },
+                "entity2": {
+                    "name": "Entity4",
+                    "description": "This is entity 4"
+                },
+                "relation_type": "related_to",
+                "description": "These entities are related to each other"
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Today",
+                "description": "A news website"
+            },
+            {
+                "name": "NBC News",
+                "description": "A news organization"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "CNN",
+                "description": "A news channel"
+            },
+            {
+                "name": "Fox News",
+                "description": "A news channel"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Donald Trump",
+                "description": "The 45th President of the United States"
+            },
+            {
+                "name": "Joe Biden",
+                "description": "The 46th President of the United States"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "New York Times",
+                "description": "A newspaper"
+            },
+            {
+                "name": "Washington Post",
+                "description": "A newspaper"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "index": 13,
+        "error": true,
+        "tags": [
+            "error"
+        ],
+        "content": "'str' object has no attribute 'choices'"
+    },
+    {
+        "entities": [
+            {
+                "name": "Walmart",
+                "description": "American multinational retail corporation"
+            },
+            {
+                "name": "Tariffs",
+                "description": "Government-imposed taxes on imported goods"
+            }
+        ],
+        "error": false
+    },
+    {
+        "relationships": [
+            {
+                "entity1": {
+                    "name": "Walmart",
+                    "description": "American multinational retail corporation"
+                },
+                "entity2": {
+                    "name": "Tariffs",
+                    "description": "Government-imposed taxes on imported goods"
+                },
+                "description": "Walmart to raise prices due to tariffs",
+                "relation_type": "causes"
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "TODAY",
+                "description": "American morning television program"
+            },
+            {
+                "name": "NBC News Digital",
+                "description": "American news organization"
+            }
+        ],
+        "error": false
+    },
+    {
+        "relationships": [
+            {
+                "entity1": {
+                    "name": "TODAY",
+                    "description": "American morning television program"
+                },
+                "entity2": {
+                    "name": "NBC News Digital",
+                    "description": "American news organization"
+                },
+                "description": "TODAY is a part of NBC News Digital",
+                "relation_type": "part_of"
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Trump says US, China made ‘great progress’ during trade talks",
+                "description": "Negotiators for the U.S. and China met in Switzerland for a second day of de-escalating a trade war between the two countries."
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Donald Trump",
+                "description": ""
+            },
+            {
+                "name": "China",
+                "description": ""
+            },
+            {
+                "name": "US",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Yamiche Alcindor",
+                "description": ""
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Covid-19",
+                "description": "A global pandemic caused by a new strain of coronavirus"
+            },
+            {
+                "name": "Vaccine",
+                "description": "A medical product used to prevent or treat diseases"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Port of Los Angeles",
+                "description": "A major seaport in the United States"
+            },
+            {
+                "name": "China",
+                "description": "A country in East Asia"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "U.S. companies",
+                "description": "Companies based in the United States"
+            },
+            {
+                "name": "Tariffs",
+                "description": "A tax on imported goods"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Reddit Co-Founder Alexis Ohanian Takes Minority Stake in Chelsea FC Women",
+                "description": "Alexis Ohanian, co-founder of Reddit, has taken a minority stake in Chelsea FC Women."
+            },
+            {
+                "name": "Bombas Socks for Sale at Store in Springfield, Ill.",
+                "description": "A display of Bombas socks for sale at a store in Springfield, Ill., in 2022."
+            }
+        ],
+        "relationships": [
+            {
+                "entity1": {
+                    "name": "Alexis Ohanian",
+                    "description": "Co-founder of Reddit"
+                },
+                "entity2": {
+                    "name": "Chelsea FC Women",
+                    "description": "Women's football team owned by Chelsea FC"
+                },
+                "description": "Alexis Ohanian has taken a minority stake in Chelsea FC Women.",
+                "relation_type": "Investment"
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Bombas Socks for Sale at Store in Springfield, Ill.",
+                "description": "A display of Bombas socks for sale at a store in Springfield, Ill., in 2022."
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Reddit Co-Founder Alexis Ohanian Takes Minority Stake in Chelsea FC Women",
+                "description": "Alexis Ohanian, co-founder of Reddit, has taken a minority stake in Chelsea FC Women."
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Bombas Socks for Sale at Store in Springfield, Ill.",
+                "description": "A display of Bombas socks for sale at a store in Springfield, Ill., in 2022."
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "American Airlines",
+                "description": "An American airline"
+            },
+            {
+                "name": "Black Hawk helicopter",
+                "description": "A military helicopter"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "The Associated Press",
+                "description": "A news organization"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Dennis Romero",
+                "description": "Breaking News Reporter"
+            },
+            {
+                "name": "Francisco Severo Torres",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "United Airlines",
+                "description": ""
+            },
+            {
+                "name": "Los Angeles",
+                "description": ""
+            },
+            {
+                "name": "Boston",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Lisa Olsen",
+                "description": ""
+            },
+            {
+                "name": "United Airlines",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Tariff truces with U.K. and China don't mean the trade war is won, analysts warn",
+                "description": ""
+            },
+            {
+                "name": "Trump tariffs",
+                "description": ""
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Traders work on the floor of the New York Stock Exchange at the opening bell on May 12, 2025.",
+                "description": ""
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "NBC News",
+                "description": "A news organization"
+            },
+            {
+                "name": "Trump tariffs",
+                "description": "Trade policies implemented by the Trump administration"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "U.S.-China tariff reprieve",
+                "description": "A temporary pause on most reciprocal tariffs between the U.S. and China"
+            },
+            {
+                "name": "Christmas",
+                "description": "A holiday celebrated on December 25th"
+            }
+        ],
+        "relationships": [
+            {
+                "entity1": {
+                    "name": "U.S.-China tariff reprieve",
+                    "description": ""
+                },
+                "entity2": {
+                    "name": "Christmas",
+                    "description": ""
+                },
+                "description": "The 90-day pause on most reciprocal tariffs between the world’s two biggest economies “staves off a potential Christmas disaster for retailers,” one analyst said.",
+                "relation_type": "related_to"
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "NBC News",
+                "description": "A news organization"
+            },
+            {
+                "name": "Trump tariffs",
+                "description": "Trade policies implemented by the Trump administration"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Fox Business",
+                "description": ""
+            },
+            {
+                "name": "CNBC",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "TikTok",
+                "description": ""
+            },
+            {
+                "name": "China",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Rolex Daytona",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Donald Trump",
+                "description": "The 45th President of the United States"
+            },
+            {
+                "name": "Xi Jinping",
+                "description": "The General Secretary of the Communist Party of China and the President of China"
+            }
+        ],
+        "relationships": [
+            {
+                "entity1": {
+                    "name": "Donald Trump",
+                    "description": "The 45th President of the United States"
+                },
+                "entity2": {
+                    "name": "Xi Jinping",
+                    "description": "The General Secretary of the Communist Party of China and the President of China"
+                },
+                "description": "They met in Geneva for trade talks",
+                "relation_type": "Meeting"
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Donald Trump",
+                "description": "The 45th President of the United States"
+            },
+            {
+                "name": "Xi Jinping",
+                "description": "The General Secretary of the Communist Party of China and the President of China"
+            }
+        ],
+        "relationships": [
+            {
+                "entity1": {
+                    "name": "Donald Trump",
+                    "description": "The 45th President of the United States"
+                },
+                "entity2": {
+                    "name": "Xi Jinping",
+                    "description": "The General Secretary of the Communist Party of China and the President of China"
+                },
+                "description": "They signed a trade deal",
+                "relation_type": "Agreement"
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Donald Trump",
+                "description": "The 45th President of the United States"
+            },
+            {
+                "name": "Xi Jinping",
+                "description": "The General Secretary of the Communist Party of China and the President of China"
+            }
+        ],
+        "relationships": [
+            {
+                "entity1": {
+                    "name": "Donald Trump",
+                    "description": "The 45th President of the United States"
+                },
+                "entity2": {
+                    "name": "Xi Jinping",
+                    "description": "The General Secretary of the Communist Party of China and the President of China"
+                },
+                "description": "They had a meeting in Geneva",
+                "relation_type": "Meeting"
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "NBC News",
+                "description": "A news organization"
+            },
+            {
+                "name": "Tom Costello",
+                "description": "A journalist"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "David K. Li",
+                "description": "A journalist"
+            },
+            {
+                "name": "NBC News",
+                "description": "A news organization"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Kena Betancur",
+                "description": "A photographer"
+            },
+            {
+                "name": "AFP - Getty Images",
+                "description": "An image agency"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Alex Mashinsky",
+                "description": "former chief executive officer of Celsius Network Ltd."
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Celsius CEO Alex Mashinsky",
+                "description": "sentenced to 12 years in multibillion-dollar crypto fraud case"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Alex Mashinsky",
+                "description": "former chief executive officer of Celsius Network Ltd."
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "General Motors assembly plant in Fort Wayne, Indiana, US",
+                "description": "A worker on the trim assembly line at the General Motors assembly plant"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Shannon Pettypiece",
+                "description": "Senior Policy Reporter"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Trump administration",
+                "description": ""
+            },
+            {
+                "name": "Business News",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Bloomberg via Getty Images file",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Emily Elconin",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Fort Wayne, Indiana, US",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "General Motors assembly plant in Fort Wayne, Indiana, US",
+                "description": "A worker on the trim assembly line at the General Motors assembly plant"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Shannon Pettypiece",
+                "description": "Senior Policy Reporter"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Trump administration",
+                "description": ""
+            },
+            {
+                "name": "Business News",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Bloomberg via Getty Images file",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Emily Elconin",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Fort Wayne, Indiana, US",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "index": 27,
+        "error": true,
+        "tags": [
+            "error"
+        ],
+        "content": "'str' object has no attribute 'choices'"
+    },
+    {
+        "entities": [
+            {
+                "name": "Yamiche Alcindor",
+                "description": "White House correspondent for NBC News"
+            },
+            {
+                "name": "Scott Bessent",
+                "description": "Treasury Secretary"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "China",
+                "description": ""
+            },
+            {
+                "name": "US",
+                "description": ""
+            }
+        ],
+        "relationships": [
+            {
+                "entity1": {
+                    "name": "Scott Bessent",
+                    "description": "Treasury Secretary"
+                },
+                "entity2": {
+                    "name": "China",
+                    "description": ""
+                },
+                "description": "Meeting between Scott Bessent and Chinese official in Switzerland",
+                "relation_type": "meeting"
+            }
+        ],
+        "error": false
+    },
+    {
+        "index": 29,
+        "error": true,
+        "tags": [
+            "error"
+        ],
+        "content": "'str' object has no attribute 'choices'"
+    },
+    {
+        "entities": [
+            {
+                "name": "Newark air traffic control lost contact with pilots at least twice before, source says",
+                "description": "The claims, which the Federal Aviation Administration hasn’t confirmed, emerged a week after Newark airspace controllers lost all communication for as long as 90 seconds."
+            },
+            {
+                "name": "Donald Trump",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "MacKenzie Sigalos, CNBC",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Donald Trump",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "name": "Barbie Dream Besties",
+        "description": "Barbie Dream Besties, from Mattel, are displayed at the TTPM 2024 Holiday Showcase event in New York, on Sept. 17, 2024.",
+        "error": false
+    },
+    {
+        "name": "Mattel Results barbie dolls besties",
+        "description": "Mattel Results barbie dolls besties",
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Trump's Hollywood tariffs announcement is met with confusion and fear",
+                "description": "A host of questions remain about how the president’s plan to slap duties on foreign productions would work."
+            },
+            {
+                "name": "The Hollywood sign in Los Angeles on Sept. 25, 2023.",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Trump's Hollywood tariffs announcement is met with confusion and fear",
+                "description": "A host of questions remain about how the president’s plan to slap duties on foreign productions would work."
+            },
+            {
+                "name": "The Hollywood sign in Los Angeles on Sept. 25, 2023.",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Trump's Hollywood tariffs announcement is met with confusion and fear",
+                "description": "A host of questions remain about how the president’s plan to slap duties on foreign productions would work."
+            },
+            {
+                "name": "The Hollywood sign in Los Angeles on Sept. 25, 2023.",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "KnowledgeGraph",
+                "description": ""
+            },
+            {
+                "name": "Entity",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "KnowledgeGraph",
+                "description": ""
+            },
+            {
+                "name": "Relationship",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "KnowledgeGraph",
+                "description": ""
+            },
+            {
+                "name": "Entity",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "KnowledgeGraph",
+                "description": ""
+            },
+            {
+                "name": "Relationship",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "KnowledgeGraph",
+                "description": ""
+            },
+            {
+                "name": "Entity",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "American Airlines",
+                "description": "An American airline"
+            },
+            {
+                "name": "Leslie Josephs, CNBC",
+                "description": "A journalist at CNBC"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "American Airlines",
+                "description": "An American airline"
+            },
+            {
+                "name": "Flagship Suite",
+                "description": "A new suite by American Airlines"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "American Airlines",
+                "description": "An American airline"
+            },
+            {
+                "name": "Leslie Josephs, CNBC",
+                "description": "A journalist at CNBC"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Elon Musk",
+                "description": "Founder of SpaceX and Tesla"
+            },
+            {
+                "name": "DOGE staff",
+                "description": "Staff members of DOGE, a company founded by Elon Musk"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "United States Institute of Peace",
+                "description": "A US government agency responsible for promoting peace and conflict resolution"
+            },
+            {
+                "name": "DOGE",
+                "description": "A company founded by Elon Musk, involved in various business ventures"
+            }
+        ],
+        "relationships": [
+            {
+                "entity1": {
+                    "name": "United States Institute of Peace",
+                    "description": "A US government agency responsible for promoting peace and conflict resolution"
+                },
+                "entity2": {
+                    "name": "DOGE",
+                    "description": "A company founded by Elon Musk, involved in various business ventures"
+                },
+                "description": "The United States Institute of Peace has a $130,000 contract with a former member of the Taliban and its chief accountant deleted over a terabyte of accounting records from several years.",
+                "relation_type": "contract"
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "FBI",
+                "description": "The Federal Bureau of Investigation, a US law enforcement agency"
+            },
+            {
+                "name": "DOJ",
+                "description": "The United States Department of Justice, responsible for enforcing federal laws and regulations"
+            }
+        ],
+        "relationships": [
+            {
+                "entity1": {
+                    "name": "FBI",
+                    "description": "The Federal Bureau of Investigation, a US law enforcement agency"
+                },
+                "entity2": {
+                    "name": "DOJ",
+                    "description": "The United States Department of Justice, responsible for enforcing federal laws and regulations"
+                },
+                "description": "DOGE referred evidence to the FBI and DOJ.",
+                "relation_type": "referral"
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Nnamdi Egwuonwu",
+                "description": "Politics reporter at NBC News"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Trump",
+                "description": "President of the United States"
+            },
+            {
+                "name": "Kilmar Abrego Garcia",
+                "description": "Salvadoran native deported back to El Salvador"
+            }
+        ],
+        "relationships": [
+            {
+                "entity1": {
+                    "name": "Trump",
+                    "description": "President of the United States"
+                },
+                "entity2": {
+                    "name": "Kilmar Abrego Garcia",
+                    "description": "Salvadoran native deported back to El Salvador"
+                },
+                "description": "Deported by Trump administration",
+                "relation_type": "deportation"
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Elon Musk",
+                "description": "Founder of Tesla and SpaceX"
+            },
+            {
+                "name": "Tesla",
+                "description": "Electric vehicle manufacturer"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Tesla factory",
+                "description": "Factory where Tesla vehicles are manufactured"
+            },
+            {
+                "name": "Gruenheide, Germany",
+                "description": "Location of the Tesla factory in Germany"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Tesla",
+                "description": "Electric vehicle manufacturer"
+            },
+            {
+                "name": "Elon Musk",
+                "description": "Founder of Tesla and SpaceX"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Nnamdi Egwuonwu",
+                "description": "Author at NBC News"
+            },
+            {
+                "name": "Sarah Dean",
+                "description": "Contributor at NBC News"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Scott Bessent",
+                "description": "U.S. Treasury Secretary"
+            },
+            {
+                "name": "Yulia Svyrydenko",
+                "description": "Ukrainian Deputy Minister"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Kamala Harris",
+                "description": "U.S. Senator from California"
+            },
+            {
+                "name": "Donald Trump",
+                "description": "45th President of the United States"
+            }
+        ],
+        "relationships": [
+            {
+                "entity1": {
+                    "name": "Kamala Harris",
+                    "description": "U.S. Senator from California"
+                },
+                "entity2": {
+                    "name": "Donald Trump",
+                    "description": "45th President of the United States"
+                },
+                "relation_type": "criticized",
+                "description": "Harris criticized Trump's policies and actions as President"
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "NAACP Image Awards",
+                "description": "Annual awards ceremony honoring outstanding achievements in African-American arts, entertainment, and culture"
+            },
+            {
+                "name": "Leading Women Defined Summit",
+                "description": "Annual conference focused on empowering women leaders"
+            }
+        ],
+        "relationships": [
+            {
+                "entity1": {
+                    "name": "Kamala Harris",
+                    "description": "U.S. Senator from California"
+                },
+                "entity2": {
+                    "name": "NAACP Image Awards",
+                    "description": "Annual awards ceremony honoring outstanding achievements in African-American arts, entertainment, and culture"
+                },
+                "relation_type": "attended",
+                "description": "Harris attended the NAACP Image Awards ceremony"
+            },
+            {
+                "entity1": {
+                    "name": "Kamala Harris",
+                    "description": "U.S. Senator from California"
+                },
+                "entity2": {
+                    "name": "Leading Women Defined Summit",
+                    "description": "Annual conference focused on empowering women leaders"
+                },
+                "relation_type": "spoke at",
+                "description": "Harris spoke at the Leading Women Defined Summit"
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Trump administration",
+                "description": "The Trump administration refers to the executive branch of the United States government during the presidency of Donald Trump."
+            },
+            {
+                "name": "Harris",
+                "description": "Kamala Harris is an American politician who served as a U.S. Senator from California and was chosen by Joe Biden as his running mate in the 2020 presidential election."
+            },
+            {
+                "name": "Tariffs",
+                "description": "Tariffs are taxes imposed on imported goods, and they can be used as a trade policy tool to protect domestic industries or raise revenue for governments."
+            },
+            {
+                "name": "Immigration",
+                "description": "Immigration refers to the movement of people into a country to live, work, or settle permanently."
+            }
+        ],
+        "relationships": [
+            {
+                "entity1": "Trump administration",
+                "entity2": "Harris",
+                "relation_type": "related_to",
+                "description": "The Trump administration and Kamala Harris have been involved in various policy debates and discussions during her presidential campaign."
+            },
+            {
+                "entity1": "Trump administration",
+                "entity2": "Tariffs",
+                "relation_type": "implemented",
+                "description": "The Trump administration has implemented tariffs on imported goods, including steel and aluminum, to protect domestic industries."
+            },
+            {
+                "entity1": "Trump administration",
+                "entity2": "Immigration",
+                "relation_type": "affected_by",
+                "description": "The Trump administration's immigration policies have been a topic of controversy and debate during his presidency."
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Nnamdi Egwuonwu",
+                "description": "Nnamdi Egwuonwu is a politics reporter at NBC News, covering breaking news for the Trump administration, Congress, and both political parties."
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Trump",
+                "description": "Donald Trump, the 45th President of the United States"
+            },
+            {
+                "name": "ABC News",
+                "description": "American Broadcasting Company's news division"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "NewsNation",
+                "description": "American cable and satellite television network"
+            },
+            {
+                "name": "Trump",
+                "description": "Donald Trump, the 45th President of the United States"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Tariffs",
+                "description": "A tax on imported goods"
+            },
+            {
+                "name": "Trump",
+                "description": "Donald Trump, the 45th President of the United States"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "index": 42,
+        "error": true,
+        "tags": [
+            "error"
+        ],
+        "content": "'str' object has no attribute 'choices'"
+    },
+    {
+        "index": 43,
+        "error": true,
+        "tags": [
+            "error"
+        ],
+        "content": "'str' object has no attribute 'choices'"
+    },
+    {
+        "entities": [
+            {
+                "name": "House Majority Leader Steve Scalise",
+                "description": "R-La."
+            },
+            {
+                "name": "Dr. Mehmet Oz",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "House Majority Leader Steve Scalise",
+                "description": "R-La."
+            },
+            {
+                "name": "Dr. Mehmet Oz",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Trump administration live updates: President speaks with Putin; GOP advances agenda bill",
+                "description": ""
+            },
+            {
+                "name": "Former President Joe Biden thanked supporters this morning following the announcement yesterday that he has an aggressive form of prostate cancer.",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Joe Biden",
+                "description": ""
+            },
+            {
+                "name": "Donald Trump",
+                "description": ""
+            }
+        ],
+        "relationships": [
+            {
+                "entity1": {
+                    "name": "Joe Biden",
+                    "description": ""
+                },
+                "entity2": {
+                    "name": "Donald Trump",
+                    "description": ""
+                },
+                "description": "",
+                "relation_type": "related"
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Sean Diddy Combs",
+                "description": "American rapper, singer, songwriter, record producer, and actor"
+            },
+            {
+                "name": "Dawn Richard",
+                "description": "American singer-songwriter and actress"
+            }
+        ],
+        "relationships": [
+            {
+                "entity1_name": "Sean Diddy Combs",
+                "entity2_name": "Dawn Richard",
+                "relation_type": "Trial Witness"
+            },
+            {
+                "entity1_name": "Tiffany Doherty",
+                "entity2_name": "Indiana University School of Medicine",
+                "relation_type": "Assistant Research Professor and Science Communicator"
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Adam Reiss",
+                "description": "Reporter and producer for NBC and MSNBC"
+            },
+            {
+                "name": "Tiffany Doherty",
+                "description": "Assistant research professor and science communicator at the Indiana University School of Medicine"
+            }
+        ],
+        "relationships": [
+            {
+                "entity1_name": "Adam Reiss",
+                "entity2_name": "NBC and MSNBC",
+                "relation_type": "Reporter and Producer"
+            },
+            {
+                "entity1_name": "Tiffany Doherty",
+                "entity2_name": "Indiana University School of Medicine",
+                "relation_type": "Assistant Research Professor and Science Communicator"
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "DAN NICUSOR",
+                "description": "Bucharest Mayor Nicusor Dan salutes his supporters as he casts his ballot during a local election in Bucharest, Romania, Sunday, Oct. 27, 2019."
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "ROBERT F. KENNEDY JR.",
+                "description": "U.S. Secretary of Health and Human Services Robert F. Kennedy Jr. testifies before the Senate Committee on Health, Education, Labor and Pensions on Capitol Hill in Washington, Tuesday, May 14, 2019."
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "MIFEPRISTONE",
+                "description": "The FDA has been tasked with re-evaluating the safety of mifepristone after a flawed report claimed it has a high rate of serious complications."
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "NICUSOR DAN",
+                "description": "Bucharest Mayor Nicusor Dan salutes his supporters as he casts his ballot during a local election in Bucharest, Romania, Sunday, Oct. 27, 2019."
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "REUTERS",
+                "description": "The Reuters news agency is seen in this undated photo."
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "index": 48,
+        "error": true,
+        "tags": [
+            "error"
+        ],
+        "content": "'str' object has no attribute 'choices'"
+    },
+    {
+        "entities": [
+            {
+                "name": "$t",
+                "description": ""
+            },
+            {
+                "name": "window",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "BI",
+                "description": ""
+            },
+            {
+                "name": "topLevelDomain",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "safeParse",
+                "description": ""
+            },
+            {
+                "name": "rawJsonLd",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "jsonLd",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "parseJsonLd",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "NBC News",
+                "description": "A news organization"
+            },
+            {
+                "name": "BI cookie",
+                "description": "A JavaScript object used for tracking user interactions"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "console.log",
+                "description": "A function in the BI console that logs messages to the browser's console"
+            },
+            {
+                "name": "localStorage",
+                "description": "A web storage API used by the BI console for storing data"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "waitForObjAvailable",
+                "description": "A function in the BI library that waits for an object to be available before executing a callback"
+            },
+            {
+                "name": "BI.dependsOn",
+                "description": "A function in the BI library that depends on other objects or elements being available"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "waitForElemAvailable",
+                "description": "A function in the BI library that waits for an element to be available before executing a callback"
+            },
+            {
+                "name": "BI.waitForObjAvailable",
+                "description": "A function in the BI library that waits for an object to be available before executing a callback"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Entity1",
+                "description": "This is Entity1"
+            },
+            {
+                "name": "Entity2",
+                "description": "This is Entity2"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [],
+        "relationships": [
+            {
+                "entity1": "Entity1",
+                "entity2": "Entity2",
+                "relation_type": "RelationshipType1",
+                "description": "This is a relationship between Entity1 and Entity2"
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Adobe",
+                "description": "A software company"
+            },
+            {
+                "name": "McAfee",
+                "description": "An antivirus software company"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "JavaScript",
+                "description": "A programming language"
+            },
+            {
+                "name": "HTML",
+                "description": "A markup language"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Entity1",
+                "description": "An entity with no description"
+            },
+            {
+                "name": "Entity2",
+                "description": "Another entity with no description"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Visitor",
+                "description": "An object that represents a visitor."
+            },
+            {
+                "name": "s",
+                "description": "A global variable that holds the tracking server and other settings."
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "visitor",
+                "description": "An instance of the Visitor class."
+            },
+            {
+                "name": "s",
+                "description": "A global variable that holds the tracking server and other settings."
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Visitor",
+                "description": "An object that represents a visitor."
+            },
+            {
+                "name": "s",
+                "description": "A global variable that holds the tracking server and other settings."
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "index": 54,
+        "error": true,
+        "tags": [
+            "error"
+        ],
+        "content": "'str' object has no attribute 'choices'"
+    },
+    {
+        "entities": [
+            {
+                "name": "conviva",
+                "description": "Conviva is a company that provides video analytics and optimization solutions."
+            },
+            {
+                "name": "window",
+                "description": "Window is an object in the browser's DOM, representing a rectangular area on the screen."
+            }
+        ],
+        "relationships": [
+            {
+                "entity1": "conviva",
+                "entity2": "window",
+                "relation_type": "uses",
+                "description": "Conviva uses window objects to access and manipulate video content in the browser."
+            },
+            {
+                "entity1": "window",
+                "entity2": "document",
+                "relation_type": "contains",
+                "description": "Window contains document objects, which represent the HTML document being displayed in the browser."
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "player",
+                "description": "Player is an object that represents a video player in the browser."
+            },
+            {
+                "name": "video",
+                "description": "Video is an object that represents a video element in the HTML document."
+            }
+        ],
+        "relationships": [
+            {
+                "entity1": "player",
+                "entity2": "video",
+                "relation_type": "plays",
+                "description": "Player plays video elements, which are represented by video objects."
+            },
+            {
+                "entity1": "video",
+                "entity2": "document",
+                "relation_type": "contained_in",
+                "description": "Video elements are contained within document objects in the HTML document."
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Entity1",
+                "description": "This is entity 1"
+            },
+            {
+                "name": "Entity2",
+                "description": "This is entity 2"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [],
+        "relationships": [
+            {
+                "entity1": {
+                    "name": "Entity3",
+                    "description": "This is entity 3"
+                },
+                "entity2": {
+                    "name": "Entity4",
+                    "description": "This is entity 4"
+                },
+                "relation_type": "related_to",
+                "description": "This is a relationship between Entity3 and Entity4"
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [],
+        "relationships": [
+            {
+                "entity1": {
+                    "name": "Entity5",
+                    "description": "This is entity 5"
+                },
+                "entity2": {
+                    "name": "Entity6",
+                    "description": "This is entity 6"
+                },
+                "relation_type": "related_to",
+                "description": "This is a relationship between Entity5 and Entity6"
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "NBC News",
+                "description": "A news organization"
+            },
+            {
+                "name": "MSNBC",
+                "description": "A cable news channel"
+            },
+            {
+                "name": "Today",
+                "description": "A news program on NBC"
+            },
+            {
+                "name": "Nbcu-3dcc5105-25e1-45bf-9fba-c85842909d0d",
+                "description": "A unique identifier for a TV pixel"
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Pressboard",
+                "description": "A JavaScript SDK for displaying sponsored content"
+            },
+            {
+                "name": "pbq",
+                "description": "The Pressboard JavaScript SDK"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "StreamingTag",
+                "description": "A class used to create a streaming tag"
+            },
+            {
+                "name": "ns_",
+                "description": "The namespace for the StreamingTag class"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "pbq",
+                "description": "The Pressboard JavaScript SDK"
+            },
+            {
+                "name": "init",
+                "description": "A function used to initialize the pbq object"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "StreamingTag",
+                "description": "A class used to create a streaming tag"
+            },
+            {
+                "name": "playVideoContentPart",
+                "description": "A method used to play video content part"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "pbq",
+                "description": "The Pressboard JavaScript SDK"
+            },
+            {
+                "name": "set",
+                "description": "A function used to set the story"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "StreamingTag",
+                "description": "A class used to create a streaming tag"
+            },
+            {
+                "name": "playVideoAdvertisement",
+                "description": "A method used to play video advertisement"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "pbq",
+                "description": "The Pressboard JavaScript SDK"
+            },
+            {
+                "name": "init",
+                "description": "A function used to initialize the pbq object"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "StreamingTag",
+                "description": "A class used to create a streaming tag"
+            },
+            {
+                "name": "stop",
+                "description": "A method used to stop the streaming tag"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "pbq",
+                "description": "The Pressboard JavaScript SDK"
+            },
+            {
+                "name": "set",
+                "description": "A function used to set the story"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [],
+        "relationships": [
+            {
+                "entity1": "quicktake module",
+                "entity2": "curatedlist module",
+                "relation_type": "inview",
+                "description": ""
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "uniVideo",
+                "description": "UniVideo instance"
+            },
+            {
+                "name": "instanceId",
+                "description": "Unique player instance ID"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "videoDataDefaults",
+                "description": "Default video data settings"
+            },
+            {
+                "name": "videoStateDefaults",
+                "description": "Default video state settings"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "eventListenerFactories",
+                "description": "Registered event listener factories"
+            },
+            {
+                "name": "instances",
+                "description": "List of UniVideo instances"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "videoData",
+                "description": "Current video data settings"
+            },
+            {
+                "name": "videoState",
+                "description": "Current video state settings"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "history",
+                "description": "List of event history"
+            },
+            {
+                "name": "listeners",
+                "description": "List of event listeners"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "referrer",
+                "description": "Referrer URL or 'direct'"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Comscore",
+                "description": "A company that provides digital measurement and analytics solutions."
+            },
+            {
+                "name": "OneTrust",
+                "description": "A company that provides privacy management and compliance solutions."
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "React Helmet",
+                "description": "A library for managing document head tags in React applications."
+            },
+            {
+                "name": "JSON Schema",
+                "description": "A specification for describing the structure of JSON data."
+            }
+        ],
+        "error": false
+    },
+    {
+        "name": "DIL",
+        "description": "A JavaScript library for managing and tracking digital assets.",
+        "error": false
+    },
+    {
+        "name": "N",
+        "description": "An object that represents the Adobe Opt-In API.",
+        "error": false
+    },
+    {
+        "name": "G",
+        "description": "An object that represents the IAB (Interactive Advertising Bureau) consent string.",
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "DIL"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "mParticle",
+                "description": ""
+            },
+            {
+                "name": "Parse.ly",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "ndp_videoEvent_START",
+                "description": ""
+            },
+            {
+                "name": "NDP_PlaybackEvent_PLAY",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "mbt_navbar_bellIconClick",
+                "description": ""
+            },
+            {
+                "name": "trending_nav",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "dtm_click_track",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "name": "Entity1",
+        "description": "This is a description of Entity1",
+        "error": false
+    },
+    {
+        "name": "Relationship1",
+        "entity1": "Entity1",
+        "entity2": "Entity2",
+        "description": "This is a description of Relationship1",
+        "relation_type": "type1",
+        "error": false
+    },
+    {
+        "name": "Entity2",
+        "description": "This is a description of Entity2",
+        "error": false
+    },
+    {
+        "index": 64,
+        "error": true,
+        "tags": [
+            "error"
+        ],
+        "content": "'str' object has no attribute 'choices'"
+    },
+    {
+        "entities": [
+            {
+                "name": "MediaHeartbeat",
+                "description": ""
+            },
+            {
+                "name": "AdobeAnalyticsPluginDelegate",
+                "description": ""
+            },
+            {
+                "name": "NielsenPluginDelegate",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "MediaHeartbeat",
+                "description": ""
+            },
+            {
+                "name": "AdobeAnalyticsPluginDelegate",
+                "description": ""
+            },
+            {
+                "name": "NielsenPluginDelegate",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "MediaHeartbeat",
+                "description": ""
+            },
+            {
+                "name": "AdobeAnalyticsPluginDelegate",
+                "description": ""
+            },
+            {
+                "name": "NielsenPluginDelegate",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "MediaHeartbeatDelegate"
+            },
+            {
+                "name": "CustomMediaHeartbeatDelegate"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "AppMeasurement"
+            },
+            {
+                "name": "_appMeasurement"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "MediaHeartbeatConfig"
+            },
+            {
+                "name": "mediaConfig"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "setupHeartbeat",
+                "description": "Setup Adobe Heartbeat"
+            },
+            {
+                "name": "window.s",
+                "description": "Adobe App Measurement object"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "targetElement",
+                "description": "Target element for click tracking"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "NBC News",
+                "description": "A news organization"
+            },
+            {
+                "name": "Telemundo",
+                "description": "A Spanish-language television network"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "nbcnews.com",
+                "description": "The website of NBC News"
+            },
+            {
+                "name": "today.com",
+                "description": "The website of Today"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "NBC News Live",
+                "description": "A live streaming service"
+            },
+            {
+                "name": "Telemundo Web",
+                "description": "A Spanish-language online news platform"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "NBC News",
+                "description": "A news organization"
+            },
+            {
+                "name": "nbcnews.com",
+                "description": "The website of NBC News"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Telemundo",
+                "description": "A Spanish-language television network"
+            },
+            {
+                "name": "telemundo.com",
+                "description": "The website of Telemundo"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "uniVideo",
+                "description": "A video player library"
+            },
+            {
+                "name": "ns_",
+                "description": "A namespace object"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "BI",
+                "description": "A BI console log function"
+            },
+            {
+                "name": "logEvent",
+                "description": "A logging function"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "brandSettings",
+                "description": "An object containing brand settings"
+            },
+            {
+                "name": "domain",
+                "description": "The current domain"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "mrkl_cid",
+                "description": "A merkle cid"
+            },
+            {
+                "name": "mrkl_domain",
+                "description": "A merkle domain"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "retryMparticle",
+                "description": "A retry interval for mParticle"
+            },
+            {
+                "name": "intervalInSeconds",
+                "description": "The interval in seconds"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "dcr",
+                "description": "A function to initialize DCR"
+            },
+            {
+                "name": "mpid",
+                "description": "An mParticle ID"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "deriveShowName",
+                "description": "A function to derive a show name"
+            },
+            {
+                "name": "showName",
+                "description": "The derived show name"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "uniVideo",
+                "description": "A JavaScript library for video analytics"
+            },
+            {
+                "name": "Conviva",
+                "description": "A company that provides a tool called Touchstone for validating changes"
+            }
+        ],
+        "relationships": [
+            {
+                "entity1": "uniVideo",
+                "entity2": "Conviva",
+                "relation_type": "integration",
+                "description": "uniVideo is integrated with Conviva's analytics library"
+            },
+            {
+                "entity1": "uniVideo",
+                "entity2": "BI",
+                "relation_type": "dependency",
+                "description": "uniVideo depends on BI (Business Intelligence) for logging events"
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "mparticle",
+                "description": "A company that provides a marketing and analytics platform"
+            },
+            {
+                "name": "Conviva",
+                "description": "A company that provides a tool called Touchstone for validating changes"
+            }
+        ],
+        "relationships": [
+            {
+                "entity1": "mparticle",
+                "entity2": "Conviva",
+                "relation_type": "integration",
+                "description": "mparticle is integrated with Conviva's analytics library"
+            },
+            {
+                "entity1": "mparticle",
+                "entity2": "uniVideo",
+                "relation_type": "dependency",
+                "description": "mparticle depends on uniVideo for video analytics"
+            }
+        ],
+        "error": false
+    },
+    {
+        "index": 71,
+        "error": true,
+        "tags": [
+            "error"
+        ],
+        "content": "'str' object has no attribute 'choices'"
+    },
+    {
+        "entities": [
+            {
+                "name": "subscribeUniEventsToCvsdk",
+                "description": "Subscribe to CVSDK events"
+            },
+            {
+                "name": "cvsdkEventList",
+                "description": "CVSDK event list"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "cv sdk",
+                "description": "cv sdk entity"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "platformInitEventList",
+                "description": "Platform init event list"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "uni_event",
+                "description": "A unique event identifier"
+            },
+            {
+                "name": "video_data",
+                "description": "Video data object"
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "play_initiate",
+                "description": "Play initiate value (Auto, Manual, Continuous)"
+            },
+            {
+                "name": "page_name",
+                "description": "Page name"
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "video_state",
+                "description": "Video state object"
+            },
+            {
+                "name": "custom_context_data",
+                "description": "Custom context data object"
+            }
+        ],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "JW Player",
+                "description": ""
+            },
+            {
+                "name": "uniTrack",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "player",
+                "description": ""
+            },
+            {
+                "name": "callingEvent",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "uniTrack",
+                "description": ""
+            },
+            {
+                "name": "player",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "handleMetadataUpdated",
+                "description": ""
+            },
+            {
+                "name": "data",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "jwEventList",
+                "description": ""
+            },
+            {
+                "name": "player",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "handlePlayerLoaded",
+                "description": ""
+            },
+            {
+                "name": "data",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "existingMetadataEvent",
+                "description": ""
+            },
+            {
+                "name": "handleMetadataUpdated",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "jwEventList",
+                "description": ""
+            },
+            {
+                "name": "player",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "handlePlayerLoaded",
+                "description": ""
+            },
+            {
+                "name": "data",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "existingPlayerLoadedEvent",
+                "description": ""
+            },
+            {
+                "name": "handlePlayerLoaded",
+                "description": ""
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "NBCUniversal",
+                "description": "A media and entertainment company"
+            },
+            {
+                "name": "Cookies",
+                "description": "Small text files placed on your computer or device"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "First-party Cookies",
+                "description": "Placed by us (including through the use of third-party service providers)"
+            },
+            {
+                "name": "Third-party Cookies",
+                "description": "Placed by third parties and used to recognize your device"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Strictly Necessary Cookies",
+                "description": "Required for Service functionality, including system administration, security and fraud prevention"
+            },
+            {
+                "name": "Information Storage and Access",
+                "description": "Cookies allow us and our partners to store and access information on the device"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Measurement and Analytics",
+                "description": "Cookies collect data regarding your usage of and performance of the Services"
+            },
+            {
+                "name": "Personalization Cookies",
+                "description": "Enable us to provide certain features, such as determining if you are a first-time visitor"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Content Selection and Delivery Cookies",
+                "description": "Data collected under this category can also be used to select and deliver personalized content"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "name": "Cookies",
+        "description": "third-party vendors use these Cookies to perform analytics, so we can improve the content and user experience, develop new products and services, and for statistical purposes.",
+        "error": false
+    },
+    {
+        "name": "Personalization Cookies",
+        "description": "These Cookies enable us to provide certain features, such as determining if you are a first-time visitor, capping message frequency, remembering choices you have made (e.g., your language preferences, time zone), and assist you with logging in after registration (including across platforms and devices). These Cookies also allow your device to receive and send information, so you can see and interact with ads and content.",
+        "error": false
+    },
+    {
+        "name": "Content Selection and Delivery Cookies",
+        "description": "Data collected under this category can also be used to select and deliver personalized content, such as news articles and videos.",
+        "error": false
+    },
+    {
+        "name": "Ad Selection and Delivery Cookies",
+        "description": "These Cookies are used to collect data about your browsing habits, your use of the Services, your preferences, and your interaction with advertisements across platforms and devices for the purpose of delivering interest-based advertising content on the Services and on third-party sites. Third-party sites and services also use interest-based Advertising Cookies to deliver content, including advertisements relevant to your interests on the Services and third-party services.",
+        "error": false
+    },
+    {
+        "name": "Social Media Cookies",
+        "description": "These Cookies are set by social media platforms on the Services to enable you to share content with your friends and networks. Social media platforms have the ability to track your online activity outside of the Services. This may impact the content and messages you see on other services you visit.",
+        "error": false
+    },
+    {
+        "name": "Measurement And Analytics Cookies",
+        "description": "We and third parties may associate Measurement And Analytics Cookies, Personalization Cookies, Content Selection, Delivery Cookies, and Reporting, Ad Selection, Delivery and Reporting Cookies, and Social Media Cookies with your online activities for the purpose of delivering targeted advertising.",
+        "error": false
+    },
+    {
+        "name": "Strictly Necessary Cookies",
+        "description": "These Cookies are required for Service functionality, including security and fraud prevention, and to enable any purchasing capabilities. You can set your browser to block these Cookies, but some parts of the site may not function properly.",
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Privacy",
+                "description": "Privacy information"
+            },
+            {
+                "name": "Legal Department",
+                "description": "Legal department contact information"
+            },
+            {
+                "name": "Central Saint Giles",
+                "description": "Address of Central Saint Giles"
+            },
+            {
+                "name": "St Giles High Street",
+                "description": "Street name and location"
+            },
+            {
+                "name": "London",
+                "description": "City where the company is located"
+            },
+            {
+                "name": "WC2H 8NU, UK",
+                "description": "Postcode of the company's address"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Strictly Necessary Cookies",
+                "description": "Cookies required for service functionality"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    },
+    {
+        "entities": [
+            {
+                "name": "Cookie List",
+                "description": "List of cookies used by the website"
+            }
+        ],
+        "relationships": [],
+        "error": false
+    }
+]

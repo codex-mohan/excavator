@@ -1,11 +1,15 @@
-
+from patchright.async_api import async_playwright
+from .config.aysnc_config import BrowserConfig
 
 class BrowserManager:
-    def __init__(self):
-        pass
+    def __init__(self, browser_config: BrowserConfig):
+        self.session = async_playwright().start()
+        self.browser = self.session.chromium.launch(headless=browser_config.headless, channel=browser_config.channel, args=self.build_browser_flags())
+        self.browser_context = self.browser.new_context()
 
     @staticmethod
     def build_browser_flags():
+        
         flags = [
             "--disable-gpu",
             "--disable-gpu-compositing",

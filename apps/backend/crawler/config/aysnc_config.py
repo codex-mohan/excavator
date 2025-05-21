@@ -1,5 +1,6 @@
 from pydantic import BaseModel
 from typing import Literal, Optional, Dict, List
+from uuid import uuid4
 
 LITE_MODE_FLAGS = [
     "--disable-background-networking",
@@ -30,19 +31,29 @@ class BrowserConfig(BaseModel):
     use_persistant_context: bool = False
     user_data_dir: Optional[str] = None
     proxy: Optional[str] = None
-    chrome_channel: Literal["chrome", "chromium", "msedge"] = "chrome"
+    channel: Literal["chrome", "chromium", "msedge"] = "chrome"
     viewport: Optional[Dict[str, int]] = None  # e.g., {"width": 1280, "height": 720}
-    litemode: bool = False
+    lightmode: bool = False
     proxy_config: Optional[Dict[str, str]] = None
     platform: Literal["windows", "linux", "mac"] = "windows"
     headers: Optional[Dict[str, str]] = None # Custom headers if any
-    text_only: bool = False
     extra_args: Optional[List[str]] = None
 
     def __init__(self):
         super().__init__()
-        if self.litemode:
+        if self.lightmode:
             self.extra_args.extend(LITE_MODE_FLAGS)
+
+        if self.use_persistant_context:
+            self.extra_args.append("--no-default-browser-check")
+            if self.user_data_dir is None:
+                # Create the temp directory
+                import os
+                self.user_data_dir = os.path.join("/tmp/.playwright/", uuid4())
+                os.makedirs(self.user_data_dir, exist_ok=True)
+
 
 class AysncCrawlerConfig(BaseModel):
     browser_config: BrowserConfig
+    ignored_tags: List[str] = []
+    save_type: Literal["json", "html", "md", "mhtml", "pdf"]
