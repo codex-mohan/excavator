@@ -39,21 +39,24 @@ class BrowserConfig(BaseModel):
     headers: Optional[Dict[str, str]] = None # Custom headers if any
     extra_args: Optional[List[str]] = None
 
-    def __init__(self):
-        super().__init__()
+    def model_post_init(self, __context):
         if self.lightmode:
+            if self.extra_args is None:
+                self.extra_args = []
             self.extra_args.extend(LITE_MODE_FLAGS)
 
         if self.use_persistant_context:
+            if self.extra_args is None:
+                self.extra_args = []
             self.extra_args.append("--no-default-browser-check")
             if self.user_data_dir is None:
                 # Create the temp directory
                 import os
-                self.user_data_dir = os.path.join("/tmp/.playwright/", uuid4())
+                self.user_data_dir = os.path.join("/tmp/.playwright/", str(uuid4()))
                 os.makedirs(self.user_data_dir, exist_ok=True)
 
-
 class AysncCrawlerConfig(BaseModel):
-    browser_config: BrowserConfig
+    crawler_mode: Literal["simple", "browser"]
+    browser_config: Optional[BrowserConfig] = None
     ignored_tags: List[str] = []
     save_type: Literal["json", "html", "md", "mhtml", "pdf"]

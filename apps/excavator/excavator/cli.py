@@ -1,4 +1,4 @@
-#!/usr/bin/env -S uv run --script
+#!/usr/bin/env python
 
 import logging
 from rich import print
@@ -17,6 +17,10 @@ log = logging.getLogger(__name__)
 from typer import Typer
 
 app = Typer()
+
+@app.command()
+def hello():
+    print("Hello, world!")
 
 @app.command()
 def get_env():

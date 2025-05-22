@@ -1,5 +1,5 @@
 [project]
-name = "backend"
+name = "excavator"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -9,6 +9,7 @@ dependencies = [
     "crawl4ai>=0.6.3",
     "fastapi>=0.115.12",
     "httpx>=0.28.1",
+    "markdownify>=1.1.0",
     "patchright>=1.52.3",
     "pydantic>=2.11.4",
     "pydantic-ai>=0.2.4",
@@ -19,4 +20,8 @@ dependencies = [
 ]
 
 [project.scripts]
-skyhigh-cli = "backend.cli:run"
+excavator-cli = "excavator.cli:run"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
